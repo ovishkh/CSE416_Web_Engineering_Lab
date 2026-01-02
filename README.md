@@ -1,1 +1,1 @@
-# web-engg
+CSE 416 is a course focused on software engineering principles, including project planning, requirements analysis, and software design methodologies. It emphasizes the development of reliable software and includes a capstone project where students work in teams to create a complex software system.
